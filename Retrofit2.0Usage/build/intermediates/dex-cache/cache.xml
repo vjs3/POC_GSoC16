@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/vjs3/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/pre-dexed/debug/okio-1.6.0_728216e4fffcebb841279749ceb54c51a6aa66a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vjs3/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/pre-dexed/debug/gson-2.6.2_f6ce3bdda8f23b180a5a8615f377647f3bc359fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="f0d7a407a29bf7198581661bdbf75c94296849dd">
+        <dex dex="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_1cdbbd0b10dd796205425939342750cc2cb8e413.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="2b4ca55d38d6086aa99b152d4f0f2054a2e0e36d">
+        <dex dex="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/pre-dexed/debug/instant-run_d1dd34af2121b52ef01d1957bf4f4d88768806d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_52adfaf328d379b66b950dcdaebabfe93bd3f118.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_513f832f8015d650093d58108c3171cca61ca463.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_daaede4182d6bbe3c8b10071df435faf363ef15e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_8b7f259163a2ffa6c7d7b482c6170cb8a070b909.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vjs3/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/pre-dexed/debug/retrofit-2.0.2_2458cf1048a8a848da2fad60a6fa251feba526a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vjs3/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_32dfe88329ebb6939629b17b1b67c1626c486820.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vjs3/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_4dd529961570c69e356c6c8d921e882fd65e7f75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_038091dc06ef03a4f52b302d86bde38c5332367d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vjs3/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_358472567db1c0a5772467b553798446c988d338.jar" />
+    </item>
+
+</items>
