@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
                 txt_status.setText("status  :  " + status);
                 txt_humidity.setText("humidity  : " + humidity);
                 txt_pressure.setText("pressure  :  " + pressure);
-                txt_wind.setText("windspeed : " + wind);
+              txt_wind.setText("windspeed : " + wind);
             } catch (Exception e) {
                 e.printStackTrace();
             }

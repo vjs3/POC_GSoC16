@@ -3,6 +3,42 @@
 
     <item
         is-multidex="false"
+        jar="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="01f7e817caa5e2c06043ffe00060d1a0025c47e4">
+        <dex dex="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_1cdbbd0b10dd796205425939342750cc2cb8e413.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_52adfaf328d379b66b950dcdaebabfe93bd3f118.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_8b7f259163a2ffa6c7d7b482c6170cb8a070b909.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vjs3/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_32dfe88329ebb6939629b17b1b67c1626c486820.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/vjs3/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
         jumboMode="true"
         optimize="false"
@@ -21,30 +57,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.3"
-        sha1="f0d7a407a29bf7198581661bdbf75c94296849dd">
-        <dex dex="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_1cdbbd0b10dd796205425939342750cc2cb8e413.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="false"
         revision="23.0.3"
-        sha1="2b4ca55d38d6086aa99b152d4f0f2054a2e0e36d">
+        sha1="94a5c03cd2c616f69f91bd75b611fdb4a9047147">
         <dex dex="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/pre-dexed/debug/instant-run_d1dd34af2121b52ef01d1957bf4f4d88768806d0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.3"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_52adfaf328d379b66b950dcdaebabfe93bd3f118.jar" />
     </item>
     <item
         is-multidex="false"
@@ -66,30 +84,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.3"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_8b7f259163a2ffa6c7d7b482c6170cb8a070b909.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/vjs3/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
         jumboMode="true"
         optimize="false"
         revision="23.0.3"
         sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
         <dex dex="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/pre-dexed/debug/retrofit-2.0.2_2458cf1048a8a848da2fad60a6fa251feba526a4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/vjs3/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.3"
-        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
-        <dex dex="/home/vjs3/POC_GSoC16/Retrofit2.0Usage/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_32dfe88329ebb6939629b17b1b67c1626c486820.jar" />
     </item>
     <item
         is-multidex="false"
